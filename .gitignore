@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+output.json
+
+# Built application files
+app/build/
+build/
+bin/
+gen/
+out/
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ files
+.idea/
+*.iws
+*.out
